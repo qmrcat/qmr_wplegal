@@ -1,2 +1,2 @@
 # qmr_wplegal
-Gestio de les pagines legals (cookies, proteccio de dades, RGDP...) de qualsevol web
+Gestió de les pagines legals (cookies, protecció de dades, RGDP...) de qualsevol web.
